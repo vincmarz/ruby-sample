@@ -5,7 +5,7 @@ Bundler.require(:default)
 class Application < Sinatra::Base
 
   get '/' do
-    "Hello World Bad Boys"
+    "Hello World Good Boys"
   end
 
 end
