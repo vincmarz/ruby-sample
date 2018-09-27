@@ -5,7 +5,7 @@ Bundler.require(:default)
 class Application < Sinatra::Base
 
   get '/' do
-    "Hello World Boys from MiniShift 3.9!"
+    "Hello World from MiniShift 3.9!"
   end
 
 end
