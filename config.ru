@@ -5,7 +5,7 @@ Bundler.require(:default)
 class Application < Sinatra::Base
 
   get '/' do
-    "New Year 2019!"
+    "Happy New Year 2019!"
   end
 
 end
