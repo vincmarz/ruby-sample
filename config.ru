@@ -5,7 +5,7 @@ Bundler.require(:default)
 class Application < Sinatra::Base
 
   get '/' do
-    "New Date: January 18, 2019"
+    "New Date: November 17, 2019"
   end
 
 end
